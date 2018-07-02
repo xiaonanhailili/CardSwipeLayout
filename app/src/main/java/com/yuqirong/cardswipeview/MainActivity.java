@@ -19,7 +19,6 @@ import me.yuqirong.cardswipelayout.CardItemTouchHelperCallback;
 import me.yuqirong.cardswipelayout.CardLayoutManager;
 import me.yuqirong.cardswipelayout.OnSwipeListener;
 
-
 public class MainActivity extends AppCompatActivity {
 
     private List<Integer> list = new ArrayList<>();
